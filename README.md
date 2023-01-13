@@ -1,3 +1,3 @@
 # mixtape
 Playlist of songs
-https://devans0178.github.io/mixtape2/
+https://devans0178.github.io/mixtape/
